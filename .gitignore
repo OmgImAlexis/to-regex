@@ -28,3 +28,9 @@ temp
 tmp
 TODO.md
 package-lock.json
+
+# Build files
+dist
+
+# packaged files
+.tgz
